@@ -26,7 +26,7 @@ Explore nossos repositórios principais para conhecer nossas soluções disponí
 
 ## 🌐 Entre em Contato
 
-- Site: [www.bytegrupo.com](https://www.bytegrupo.com)
+- Site: [www.bytegrupo.com](https://bytegrupo.com)
 - Email: ti@bytegrupo.com
 - LinkedIn: [BYTE GRUPO](https://www.linkedin.com/company/bytegrupo)
 
